@@ -16,3 +16,4 @@ Aside from coding, I also do the following things.<br/>
 ## How to get in contact with me?<br/>
 - [Instagram](https://instagram.com/jeroenvhattem)<br/>
 - [LinkedIn](https://www.linkedin.com/in/jeroenvhattem/)<br/>
+- [Email](mailto:jeroenvanhattem@outlook.com)<br />
