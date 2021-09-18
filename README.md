@@ -1,7 +1,8 @@
 # Hey<br/>
 
 ## Who am I?<br/>
-Well hey, I'm Jeroen. I'm a fullstack (React, Node, Typescript) developer. Also going to learn React Native in the near future! I started out as a Computer Science student, but after a few years I decided to change to web. Haven't look back since.
+Well hey, I'm Jeroen. I'm a fullstack (React, Node, Typescript) developer. Also going to learn React Native in the near future! I started out as a Computer Science student, but after a few years I decided to change to web. Haven't look back since. <br />
+I live near Utrecht, The Netherlands. I'm 23 years old and I go to University of Applied Sciences in Utrecht
 
 ## What I've been working on?<br/>
 I've been working on various things.<br/>
@@ -12,6 +13,7 @@ I've been working on various things.<br/>
 Aside from coding, I also do the following things.<br/>
 ⚽ I play football<br/>
 🎤 I make music, you can check me out on [Spotify](https://open.spotify.com/artist/7Egoy0UuRKksBWzmGYzd68?si=ZFvkJ25fTzWuurChMoAGTA&dl_branch=1), [Apple Music](https://music.apple.com/us/artist/yeno/1495372718) or [YouTube](https://www.youtube.com/channel/UCZkKPcjFB8UpoZ2y6bC1rWw)<br/>
+❌ I regularly go to Ajax matches <br />
 
 ## How to get in contact with me?<br/>
 - [Instagram](https://instagram.com/jeroenvhattem)<br/>
