@@ -2,7 +2,7 @@
 
 ## Who am I?<br/>
 Well hey, I'm Jeroen. I'm a fullstack (React, Node, Typescript) developer. Also going to learn React Native in the near future! I started out as a Computer Science student, but after a few years I decided to change to web. Haven't look back since. <br />
-I live near Utrecht, The Netherlands. I'm 23 years old and I go to University of Applied Sciences in Utrecht
+I live near Utrecht, The Netherlands. I really wanna move to New York within a few years though. I'm 23 years old and I go to University of Applied Sciences in Utrecht
 
 ## What I've been working on?<br/>
 I've been working on various things.<br/>
