@@ -6,8 +6,8 @@ I live near Utrecht, The Netherlands. I really wanna move to New York within a f
 
 ## What I've been working on?<br/>
 I've been working on various things.<br/>
-🥙 My internship at [Foodsy](https://foodsy.eu), a food pre-order app and website.<br/>
-📅 My side project called [Dashy](https://dashy-app.com), the most customizable personal dashboard.<br/>
+🥙 My graduation internship at Social Brothers<br/>
+📅 My side project called [Dashy](https://dashy.me). Something beautiful is in the works.<br/>
 🙋🏻‍♂️ My personal website at [jeroenvanhattem.io](https://jeroenvanhattem.io). I made this website while learning React, so it doesn't look that good at the moment.<br/>
 
 Aside from coding, I also do the following things.<br/>
