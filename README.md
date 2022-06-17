@@ -1,4 +1,4 @@
-# Hey<br/>
+# Hey 👋 <br/>
 
 ## Who am I?<br/>
 Well hey, I'm Jeroen. I'm a fullstack (React, Node, Typescript) developer. I started out as a Computer Science student, but after a few years I decided to change to web. Haven't look back since. <br />
