@@ -7,7 +7,7 @@ I live near Utrecht, The Netherlands. I really wanna move to New York within a f
 ## What I've been working on?<br/>
 I've been working on various things.<br/>
 🥙 My job at [On Air](https://onair.events)<br/>
-📅 My side project called [Dashy](https://dashy.me). Something beautiful is in the works.<br/>
+📅 My side projects Apollo and [Dashy](https://dashy.me). Something beautiful is in the works.<br/>
 🙋🏻‍♂️ My personal website at [jeroenvanhattem.io](https://jeroenvanhattem.io). I made this website while learning React, so it doesn't look that good at the moment.<br/>
 
 Aside from coding, I also do the following things.<br/>
