@@ -6,19 +6,19 @@ I live in Utrecht, The Netherlands. I'm 26 years old and I graduated in Computer
 
 ## What I've been working on?<br/>
 I've been working on various things.<br/>
-<!--📅 🥙 My job at [On Air](https://onair.events)<br/-->
 💼 My regular job as a software developer <br />
 🏋️ My fitness/social media app, [ApolloFit](https://apollofit.app).<br/>
 🤖 Creating TARS from Interstellar with some extra cool features <br />
 🏠 Optimizing my house with cool gadgets and other coded stuff <br />
+<!--📅 🥙 My job at [On Air](https://onair.events)<br/-->
 <!-- 🙋🏻‍♂️ My personal website at [jeroenvanhattem.io](https://jeroenvanhattem.io). I made this website while learning React, so it doesn't look that good at the moment and I haven't revisited the code since 🙃.<br/> -->
 
 Aside from coding, I also do the following things.<br/>
 ⚽ I do a lot of sports, including going to the gym, playing football and going for runs<br/>
-<!-- ❌ I regularly go to Ajax matches <br /> -->
 ⛰️ I like travelling. Recently I went on a California roadtrip! <br />
 🎮 I enjoy playing video games <br />
 🎥 I love watching films  <br />
+<!-- ❌ I regularly go to Ajax matches <br /> -->
 <!--🎤 I make music, you can check me out on [Spotify](https://open.spotify.com/artist/7Egoy0UuRKksBWzmGYzd68?si=ZFvkJ25fTzWuurChMoAGTA&dl_branch=1), [Apple Music](https://music.apple.com/us/artist/yeno/1495372718) or [YouTube](https://www.youtube.com/channel/UCZkKPcjFB8UpoZ2y6bC1rWw)-->
 
 ## How to get in contact with me?<br/>
